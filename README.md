@@ -18,6 +18,12 @@ This project is an interactive HR Analytics Dashboard developed using Power BI. 
 - Interactive Filters and Slicers
 - KPI Cards and Charts
 
+## Key Insights
+- Analyzed employee attrition trends.
+- Compared departments and job roles.
+- Evaluated salary and performance distribution.
+- Built interactive KPI dashboards using Power BI.  
+
 ## Dataset
 The project uses an Excel dataset (`HRData 1.xlsx`) containing employee information.
 
